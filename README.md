@@ -1,5 +1,8 @@
 # Reactapp
-React app programs
+open index.js
+open terminal enter npm start
+change the code according to u
+This is 2 React app programs
 odd even
 import React from 'react';
 import ReactDOM from 'react-dom/client';
