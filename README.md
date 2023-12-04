@@ -1,4 +1,9 @@
 # Reactapp
+create a folder on desktop
+open folder open cmd 
+create-react-app myapp
+npm start
+open vs code
 open index.js
 open terminal enter npm start
 change the code according to u
